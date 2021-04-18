@@ -50,7 +50,7 @@ public class CAOClient
                 System.out.println("********Register selected*********");
 
                 //To register, students must enter a date of birth and a password. CaoNumber should be auto-increment
-
+                
 
                 choice = 0; //Reset choice so menu will loop until user quits
             } else if (choice == 2) {
